@@ -1,8 +1,8 @@
 [![Header](https://github.com/Eu-Ti/Eu-Ti/blob/main/assets/header.png)](https://www.artstation.com/eugene_tim)
-## I'm a QA Engineer and Tutor. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
+## I'm a QA Engineer at Forma. 
+## I have a channel on Youtube
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Tap here](https://drive.google.com/drive/folders/1IylRN6uPyi8ypqTF0dyK4u6FhOsWt-Kp?usp=sharing/)
 
 ## Latest Youtube Videos
 

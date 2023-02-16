@@ -26,6 +26,7 @@
 ![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=FFDB54)
 ![Header](https://img.shields.io/badge/Vanessa-090909?style=for-the-badge&logo=Vanessa&logoColor=3B72A2)
 
+
 ### Testing Documentation
 
 - [Checklists](https://github.com/Eu-Ti/Checklists.git)
@@ -33,6 +34,7 @@
 - [Bug-Reports](https://github.com/Eu-Ti/Bug-Reports.git)
 - [SQL Queries](https://github.com/Eu-Ti/SQL-Queries.git)
 - [Postman Collections](https://github.com/Eu-Ti/Postman.git)
+- [Vanessa Automation](https://github.com/Eu-Ti/vanessa-automation.git)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)](https://www.youtube.com/channel/UCXeLulIJ2qAbpcuKfKluQ_g)

@@ -8,7 +8,7 @@
 
 <!-- YOUTUBE:START -->
 - [Leg Rig #rigging #blender #3D](https://www.youtube.com/watch?v=yD536aHdc8g)
-- [Mannequin Rig &lpar;WIP&rpar;](https://www.youtube.com/shorts/dkAfp1cZW-8)
+- [Mannequin Rig &lpar;WIP&rpar;][def]
 <!-- YOUTUBE:END -->
 
 ### Language and Tools
@@ -28,11 +28,11 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://github.com/Eu-Ti/Checklists.git)
+- [Test-Suites and Test-Cases](https://github.com/Eu-Ti/Test-Cases.git)
+- [Bug-Reports](https://github.com/Eu-Ti/Bug-Reports.git)
+- [SQL Queries](https://github.com/Eu-Ti/SQL-Queries.git)
+- [Postman Collections](https://github.com/Eu-Ti/Postman.git)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)](https://www.youtube.com/channel/UCXeLulIJ2qAbpcuKfKluQ_g)
@@ -40,3 +40,5 @@
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/eugene-timko/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eu-Ti&show_icons=true&theme=radical)
+
+[def]: https://www.youtube.com/shorts/dkAfp1cZW-8
